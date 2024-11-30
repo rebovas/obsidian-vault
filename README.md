@@ -1,4 +1,2 @@
-Test sync
-  My test(qqmb3r)
-
-New tab
+Test sync  
+My test(qqmb3r)
